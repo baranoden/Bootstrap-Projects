@@ -1,1 +1,1 @@
-> Example of Simple Bootstrap Parfume Shop
+> Examples of Simple Bootstrap Projects
